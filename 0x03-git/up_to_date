@@ -1,0 +1,8 @@
+git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_course.git
+git pull
+cd alx-pre_course/
+git config --global user.email 'you@example.com'
+git config --global user.name 'Your Name'
+git add .
+git commit -m 'My first commit'
+git push
